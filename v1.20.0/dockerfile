@@ -1,0 +1,2 @@
+From k8s.gcr.io/kube-scheduler-amd64:v1.20.0
+MAINTAINER harry <571809491@qq.com>
